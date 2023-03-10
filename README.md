@@ -10,7 +10,7 @@ Creating a Student Management System Program using Java and MySQL
 | Language | Java 17.0.6_10 |
 | Editor | Eclipse IDE 2022-06 (4.24.0) |
 | DBMS | MySQL Workbench 8.0.17 |
-| Github | https://github.com/KimJeongHwan0731/Student_repo |
+| Github | https://github.com/KimJeongHwan0731/StudentManagementSystemProgram-Java-Project |
 
 ## Periods of Development
 2023-02-27(Mon) ~ 2023-02-28(Tue)
