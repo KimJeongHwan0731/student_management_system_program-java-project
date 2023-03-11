@@ -1,9 +1,9 @@
 # Student Management System Program
 
-## Outline
-Creating a Student Management System Program using Java and MySQL
+## 학생 성적 프로그램 소개
+- 학생 기본 정보 입력 후, DataBase와 연동하여 학생 성적을 관리하는 프로젝트
 
-## Development Environment
+## 개발 환경
 | Category | Content |
 | --- | --- |
 | OS | Windows 10 Home |
@@ -12,10 +12,18 @@ Creating a Student Management System Program using Java and MySQL
 | DBMS | MySQL Workbench 8.0.17 |
 | Github | https://github.com/KimJeongHwan0731/StudentManagementSystemProgram-Java-Project |
 
-## Periods of Development
+## 개발 기간
 2023-02-27(Mon) ~ 2023-02-28(Tue)
 
-## Feature Summary and Description
+## 적용 기술 및 구현 기능
+
+### 적용 기술
+<img src="https://img.shields.io/badge/-Java-orange">
+<img src="https://img.shields.io/badge/-MySql-blue">
+
+## 구현 기능
+![0  ERD_Upload](https://user-images.githubusercontent.com/126849373/224491089-28c1efbb-5d56-47a4-ae14-c5eff34d1875.PNG)
+
 ![1  Input_Upload](https://user-images.githubusercontent.com/126849373/224264293-6108a859-7faf-4dd5-9220-1672b2f8a463.PNG)
 
 ![2  Output_Upload](https://user-images.githubusercontent.com/126849373/224264305-48a5c01d-8bf9-4b27-805b-8dbcd34cf504.png)
